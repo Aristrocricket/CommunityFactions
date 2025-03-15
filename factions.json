@@ -1,0 +1,107 @@
+[
+    {
+      "name": "Incendiary Recon Infiltration Squad (I.R.I.S)",
+      "logo": "assets/images/factions/IRIS.png",
+      "type": "Specialized Helldiver Unit",
+      "motto": "Bugs are better when well done",
+      "description":"Our <strong>Incendiary Recon Infiltration Squad (I.R.I.S)</strong> is an elite unit that specializes in using incendiary weapons to devastate enemies. With fireproof gear and tactical expertise, we strike swiftly and decisively, leaving nothing but ashes behind. Relentless and efficient, we bring the heat to every battle.",
+      "history": "Formed after new technologies allowed for <b>Fireproof Armour</b>",
+      "homeworld": "Hellmire",
+      "enemies": ["Automatons", "Terminids", "Illuminate"],
+      "weapons": ["Flamethrowers and incendiary weapons."],
+      "preferred_support": ["Orbital Napalm Barrage"],
+      "armor": ["UF-50 Bloodhound"],
+      "battle_cry": "Burn 'em all!!!"
+    },
+    {
+        "name": "Blitz Divers",
+        "logo": "assets/images/factions/BlitzDivers.jpg",
+        "type": "Specialized Helldiver Unit",
+        "motto": "We are a speedrunning team dedicated to Helldivers 2",
+        "description": "What makes the Blitz Divers different is that we, like the Chaosdivers, know the flaws in Super Earth's government. However, despite our somewhat anarchistic approaches, we believe that to truly win the Second Galactic War, all Helldivers must come together to face our enemies and create a new Super Earth government for the betterment of it's citizens.",
+        "history": "",
+        "homeworld": "None",
+        "enemies": ["Automatons", "Terminids", "Illuminate"],
+        "weapons": ["Lift-850 Jetpack", "Arc 3 Arc Thrower", "Flame-40 Flamethrower", "Supply Pack"],
+        "preferred_support": ["None"],
+        "armor": ["AF-91 Field Chemist", "CE-81 Juggernaut", "R-44 Salamander", "AF-50 Noxious Raider"],
+        "battle_cry": ""
+      },
+      {
+          "name": "The Neon Demons",
+          "logo": "assets/images/factions/76thReconWing.jpg",
+          "type": "Specialized Freedom-Alliance Unit",
+          "motto": "Raid the hearts of evil's twist",
+          "description": "The 76th Recon Wing, <strong>Neon Demons</strong>, are a platoon of Helldivers who specialize in urban warfare including infiltration, sabotage and raids.  Known for their elite reconnaissance to crush dissidents before they're a problem",
+          "history": "",
+          "homeworld": "None",
+          "enemies": ["Automatons", "Terminids", "Illuminate"],
+          "weapons": ["None"],
+          "preferred_support": ["None"],
+          "armor": ["None"],
+          "battle_cry": ""
+        },
+        {
+          "name": "The 104th Wolf Batallion (Wolfdivers)",
+          "logo": "assets/images/factions/WolfDivers.png",
+          "type": "Specialized Helldiver Unit",
+          "motto": "Wolves together strong, wolves forever strong.",
+          "description": "As descendants of Aesir Pass, our home has been known to be ravaged by the Automatons time and time again, leading to the inhabitants to develop a strong hatred for the socialist bots. The turning point was the loss of the Aesir Pass training facility that resulted in the deaths of many Helldiver recruits at the hands of the Automatons. Because of this loss, the 104th Wolf Battalion was born. Coming together under the moniker of the viking Sea Wolves, and to show respect to the Norse gods of ancient Earth, the Wolfdivers fight to protect the citizens of Super Earth.",
+          "history": "",
+          "homeworld": "Aesir Pass",
+          "enemies": ["Automatons"],
+          "weapons": [""],
+          "preferred_support": ["Eagle Strikes (Valkyries)"],
+          "armor": ["CW-36 Winter Warrior", "CW-22 Kodiak", "CW-7 White Wolf"],
+          "battle_cry": ""
+        },
+        {
+          "name": "99th Hell Company",
+          "logo": "assets/images/factions/99th.jpg",
+          "type": "Specialized Helldiver Unit",
+          "motto": "None",
+          "description": "Those who become part of the 99th Hell Company are hand picked individually who have surpassed other fellow Helldivers before them, performing beyond expectations.",
+          "history": "",
+          "homeworld": "",
+          "enemies": ["Automatons", "Terminids", "Illuminate"],
+          "weapons": ["None"],
+          "preferred_support": ["None"],
+          "armor": ["BO-8 Light Gunner", "DP-40 Hero of the Fedration", "PH-56 Jaguar"],
+          "battle_cry": ""
+        },
+        {
+          "name": "101st Hell Battalion",
+          "logo": "assets/images/factions/101st.jpg",
+          "type": "Specialized Helldiver Unit",
+          "motto": "None",
+          "description": "We see ourselves as a group of misfits bent on the spreading of Managed Democracy who fear no amount of enemies that come our way. With our numbers continuing to grow day by day, more Helldivers seem eager to join our ranks to further the spread of freedom to all planets in the galaxy. We also has a program called Helldiver Environment Advanced Training, or H.E.A.T. which has ranking officers supervise Helldivers with various tasks to show their mettle and worth as a member of the 101st Hell Battalion.",
+          "history": "",
+          "homeworld": "",
+          "enemies": ["Automatons", "Terminids", "Illuminate"],
+          "weapons": ["None"],
+          "preferred_support": ["None"],
+          "armor": ["None"],
+          "battle_cry": ""
+        },
+        {
+          "name": "1st Armored Division (Iron Knights)",
+          "logo": "assets/images/factions/IronKnights.jpg",
+          "type": "<b>EXTREMIST MONARCHY GROUP: THREAT TO OUR MANAGED DEMOCRACY</b>",
+          "motto": "Forged in iron, bound for glory",
+          "description": "The Iron Knights get their name as they are a fully mechanized division as they are seen primarily using the Patriot and Emancipator exo-suits, nicknamed Titans, while on the battlefield. The pilots of these mechs, being the Iron Knights themselves, are battle-hardened warriors who earn their titles through suffering and determination as well has have their own Diver chant called The March of the Titans, and their motto, Forged in iron, bound for glory.",
+          "homeworld": "Fort Justice",
+          "armor": ["SA-25 Steel Trooper", "SA-2 Servo Assisted", "SA-32 Dynamo"],
+          "battle_cry": ""
+        },
+        {
+          "name": "382nd Crimson Strike Group",
+          "logo": "assets/images/factions/382nd.png",
+          "type": "Specialized Helldiver Unit",
+          "motto": "None",
+          "description": "Due to our thirst for vengeance to avenge our fallen comrades during the Massacre at Malevelon Creek, our members are seen wearing the Doubt Killer armor set to strike fear and intimidation into Super Earth's enemies. Prior to this armor change, our members were also seen wearing the Demolitions Specialist armor set with the Fallen Heroes Vengeance cape to honor those who fell at the Creek.",
+          "homeworld": "Malevelon Creek",
+          "armor": ["UF-84 Doubt Killer", "CEO-7 Demolition Specialist"],
+          "battle_cry": ""
+        }
+  ]
+  
