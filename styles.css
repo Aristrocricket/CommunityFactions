@@ -87,3 +87,7 @@ b {
     position: sticky;
     top: 0;
 }
+
+footer {
+    font-family: "HD";
+}
